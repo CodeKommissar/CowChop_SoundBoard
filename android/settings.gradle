@@ -1,0 +1,3 @@
+rootProject.name = 'CowChop_SoundBoard'
+
+include ':app'
